@@ -1,0 +1,161 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+
+.nav {
+	padding-right: 0;
+}
+
+.navbar-nav {
+	float: right;
+}
+
+th {
+	text-align: right;
+}
+
+.navbar-nav > li {
+	float: right;
+}
+
+
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+	float: right;
+}
+
+.m-b-20 {
+	margin-bottom: 20px;
+}
+
+body {
+	background-color: #0866c6;
+	font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	color: #fff;
+	
+}
+
+#login {
+	height: 90%;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	position: absolute;
+	right: 0;
+	left: 0;
+}
+.btn-social {
+	-moz-transition: all 0.2s ease-out 0s;
+	-webkit-transition: all 0.2s ease-out 0s;
+	transition: all 0.2s ease-out 0s;
+	text-align: center;
+	max-width: 476px;
+	margin: auto;
+}
+.facebook-button {
+	display: block;
+	border: 1px solid #0c57a3;
+	padding: 10px;
+	background: #0972dd;
+	width: 100%;
+	color: #fff;
+	
+}
+.btn-social.btn-facebook:hover {
+  background: #1e82e8;
+}
+
+#login {
+	-webkit-transition: 2s ease-in-out;
+    -moz-transition: 2s ease-in-out;
+    -o-transition: 2s ease-in-out;
+    transition: 2s ease-in-out;
+}
+.btn-hmluw {
+
+	border-color: rgba(0,0,0,0.2);
+	background-color: #3b5998;
+
+	margin: auto;
+	-moz-transition: all 0.2s ease-out 0s;
+	-webkit-transition: all 0.2s ease-out 0s;
+	transition: all 0.2s ease-out 0s;
+
+	color: #fff;
+	font-size: 16px;
+}
+
+.btn-hmluw:hover {
+	background-color:#5E6E7E;
+	color:#fff;
+}
+.nav-tabs {
+	border:0px;
+}
+.tabs .nav-tabs>li>a {
+	border:0px;
+}
+.tabs .nav-tabs>li>a:hover {
+	background-color: #28282E;
+	margin-right: 0px;
+	border: 0px;
+}
+.tabs .nav-tabs>li>a {
+	border-radius: 0px;
+	margin-right: 0px;
+}
+.tabs .nav-tabs>li.active>a, .tabs .nav-tabs>li.active>a:hover, .tabs .nav-tabs>li.active>a:focus {
+	background-color:#3B5998;
+	border:0px;
+	  color: #fff;
+}
+.nav-tabs>li {
+	.nav-tabs>li
+}
+.tabs li{
+	background-color: #3B5998;
+  	color: #fff;
+  	margin-right: 6px;
+}
+.tabs li:hover{
+
+}
+.tabs li a{
+	  background-color: #28282E;
+  	color: #fff;
+}
+.box-count {
+	background-color: #28282E;
+  width: 125px;
+  height: 125px;
+  padding: 20px;
+  font-size: 20px;
+  float:right;
+  margin-left:5px;
+  text-align:center;
+}
+.box-count i{
+	display: block;
+}
+
+.result {
+	margin:auto;
+	margin-top:10px;
+}
+
+.margin10 {
+	margin-top:10px;
+}  
+.tab-pane {
+	  background-color: #3B5998;
+	  padding:20px;
+	    border: 1px solid #fff;
+    border-top: 0px solid #fff;
+}
+
+.tab-pane ul>li {
+  	list-style-type: decimal;
+}
+.tab-pane ul>li>i {
+	  padding: 1px 10px;
+}
