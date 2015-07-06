@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 .ftp*
+=======
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+*/cache/!.htaccess
+>>>>>>> ac80e4b6cb7babafa2988298e2bd8d65b0e8a628
