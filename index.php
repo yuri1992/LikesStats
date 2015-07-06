@@ -8,11 +8,11 @@
 	require 'login_handler.php';
 
 
-	if ($_GET['publish']) {
+	if (isset($_GET['publish'])) {
 		$login->publishWall();
 	}
 	 
-	if ($_GET['destroy']) {
+	if (isset($_GET['destroy'])) {
 		session_destroy();
 		$_SESSION['token'] = NULL;
 	}
